@@ -2,7 +2,7 @@
 
 # svelte-list app
 
-This is a project based on [Svelte](https://svelte.dev) apps. 
+This is a project built with [Svelte](https://svelte.dev) apps. 
 
 ```
 
